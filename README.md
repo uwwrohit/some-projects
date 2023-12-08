@@ -5,12 +5,16 @@ Authur - Rohitash Kumar
 
 ----------------
 git cmd
+
 1- clone & Status
+
     -> git clone address: github
+    
 2. git status: displays the state of code
+   
     -> git status
 
-3.cd folderName(change directory name)
+3. cd folderName(change directory name)
 
 4.ls
 5. ls -a
